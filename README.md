@@ -1,17 +1,17 @@
 # Mortage Plan
-##Code test
+Code test
 
-###Building the application
+Building the application
 
 Open command promp
 
 Clone the repository:
 git clone 
 
-Navigate to the mortge-plan folder:
-cd mortgae-plan
+Navigate to the mortage-plan folder:
+cd mortage-plan
 
-Build the appliction using Gradle:
+Build the application using Gradle:
 Windows: gradlew build
 MAC/Linux: ./gradlew build
 
