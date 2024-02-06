@@ -1,7 +1,7 @@
-## mortage-plan
-Code test
+# Mortage Plan
+##Code test
 
-Building the application
+###Building the application
 
 Open command promp
 
